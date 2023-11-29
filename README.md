@@ -1,21 +1,18 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
-### Hi there 👋, my name is Wilson Felippi.
-#### I am Systems Analysis and Development student.
-![I am Systems Analysis and Development student.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Currently a student of Systems Analysis and Development.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a enthusiastic front-end developer commited to creating visually appealing and user-frindly websites.<br>
+Dedicated to optimizing user experiences through thoughtful design and efficient code.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,mysql)](https://skillicons.dev)
 
 - 🔭 I’m currently working on personal projects. 
-- 🌱 I’m currently learning CSS, Javascript, React and python. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilsonFelippi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilson-felippi-7a4a56251/)  
+- 🌱 I’m currently learning CSS, Javascript, React and Python. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonFelippi)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=WilsonFelippi)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilsonFelippi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilson-felippi-7a4a56251/)  
