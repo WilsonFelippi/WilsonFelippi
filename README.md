@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./img/github-header-image.png)
 
 
 #### Currently a student of Systems Analysis and Development.
