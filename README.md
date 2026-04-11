@@ -52,8 +52,7 @@ This experience gives me a strong analytical mindset and problem-solving skills,
 
 ### 📊 GitHub Stats
 
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonFelippi&show_icons=true&theme=tokyonight)
-
+![Wilson's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=WilsonFelippi&show_icons=true&theme=onedark)
 
 ---
 
